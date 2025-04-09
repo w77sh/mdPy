@@ -3,7 +3,6 @@ import pyfiglet
 import argparse
 from rich.console import Console
 from rich.panel import Panel
-
 console = Console()
 
 def show_welcome_screen():
